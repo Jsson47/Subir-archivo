@@ -50,7 +50,7 @@ namespace comboCamisas
                 precio = 50;
             total = precio * hect;
             Console.WriteLine("Valor de precio, primero cambios, segundo cambio, tercer cambio: " + precio);
-            Console.WriteLine("Valor de total: " + total);
+            Console.WriteLine("Valor de total, cuarto cambio: " + total);
             Console.WriteLine();
             Console.ReadKey();
         }
