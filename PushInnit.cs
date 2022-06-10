@@ -49,7 +49,7 @@ namespace comboCamisas
             if (tipo_de_fumigacion == 4)
                 precio = 50;
             total = precio * hect;
-            Console.WriteLine("Valor de precio, primero cambios, segundo cambio,: " + precio);
+            Console.WriteLine("Valor de precio, primero cambios, segundo cambio, tercer cambio: " + precio);
             Console.WriteLine("Valor de total: " + total);
             Console.WriteLine();
             Console.ReadKey();
